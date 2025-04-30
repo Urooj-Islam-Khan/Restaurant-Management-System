@@ -1,0 +1,37 @@
+
+***** Customer Bill *****
+Customer ID: cus28
+Item Names			Price
+Coffee ---------- 100
+Chicken Fried Rice ---------- 800
+Chowmein ---------- 1000
+
+Total Bill: 1900 Rs
+
+***** Customer Bill *****
+Customer ID: cus40
+Item Names			Price
+Mojito ---------- 350
+Tea ---------- 50
+Omelette ---------- 100
+Chowmein ---------- 1000
+
+Total Bill: 1500 Rs
+
+***** Customer Bill *****
+Customer ID: cus6646
+Item Names		Price
+Coffee ---------- 100 Rs
+Nihari ---------- 1200 Rs
+Chicken Tikka ---------- 500 Rs
+
+Total Bill: 1800 Rs
+
+***** Customer Bill *****
+Customer ID: cus8289
+Item Names		Price
+Tea ---------- 50 Rs
+Halwa Puri ---------- 200 Rs
+Halwa Puri ---------- 200 Rs
+
+Total Bill: 450 Rs

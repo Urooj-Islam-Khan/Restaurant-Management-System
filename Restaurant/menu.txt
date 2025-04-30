@@ -1,0 +1,57 @@
+
+Breakfast:
+------------------------------------------
+1: Omelette ...... Price: 100
+2: Paratha ...... Price: 100
+3: Tea ...... Price: 50
+4: Coffee ...... Price: 100
+5: Halwa Puri ...... Price: 200
+
+Chinese:
+------------------------------------------
+6: Chowmein ...... Price: 1000
+7: Chicken Fried Rice ...... Price: 800
+8: Shashlik ...... Price: 1300
+9: Momos ...... Price: 400
+10: Ramen ...... Price: 1200
+
+Starters:
+------------------------------------------
+11: Chicken Wings ...... Price: 600
+12: Spring Rolls ...... Price: 500
+13: Cheese Balls ...... Price: 550
+
+Desi:
+------------------------------------------
+14: Biryani ...... Price: 900
+15: Nihari ...... Price: 1200
+16: Haleem ...... Price: 1000
+17: Paye ...... Price: 1300
+
+Sweets:
+------------------------------------------
+18: Fudge Cake ...... Price: 1600
+19: Brownie ...... Price: 400
+20: Black Forest Cake ...... Price: 1400
+21: Gulab Jamun ...... Price: 300
+
+Drinks:
+------------------------------------------
+22: Mountain Dew ...... Price: 150
+23: Mojito ...... Price: 350
+
+Chicken Special:
+------------------------------------------
+24: Chicken Handi ...... Price: 1200
+25: Chicken Karahi ...... Price: 1400
+
+Bar BQ:
+------------------------------------------
+26: Chicken Tikka ...... Price: 500
+27: Beef Seekh Kebab ...... Price: 600
+28: Chicken Malai Boti ...... Price: 700
+
+Salad:
+------------------------------------------
+29: Russian Salad ...... Price: 450
+30: Green Salad ...... Price: 250
